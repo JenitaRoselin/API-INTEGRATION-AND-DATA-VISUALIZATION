@@ -74,3 +74,10 @@ This type of program can be used in various applications:
   Event Planning: Helps determine the weather conditions for outdoor events by predicting temperature, wind, and humidity trends.
   Research in Meteorology: Assists in visualizing weather data to identify patterns and anomalies.
 By fetching data from a reliable API and visualizing it, the program supports decision-making in industries and fields where weather data is crucial.
+
+# *Pictures of the Program Output*
+![Image](https://github.com/user-attachments/assets/f57b72e8-3db1-4073-b9fe-01dddfa4e9db)
+
+![Image](https://github.com/user-attachments/assets/74a57b1c-39d0-461a-8412-047994e0f05e)
+
+![Image](https://github.com/user-attachments/assets/9d09e4bb-1b6e-4599-8c20-edc8c2d537f4)
